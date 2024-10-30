@@ -1,6 +1,9 @@
 # 💫 I'm Himanshu Yadav
 🔭 I am currently working on improving my problem-solving skills<br>👯 I am looking to collaborate on web development projects, particularly those related to Django.<br>🌱 I am currently learning Spring Boot, advanced web development techniques<br>💬 Ask me about anything except me<br>⚡ Fun fact: I like raw coffee
 
+![Profile Views](https://komarev.com/ghpvc/?username=bitsonymous&color=blue&style=flat)
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/himannshu_yadav) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/himannshu-yadav) 
 
